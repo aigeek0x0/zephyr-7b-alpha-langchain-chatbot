@@ -1,4 +1,4 @@
-This is Gradio Cahtbot that runs on Free Google Colab. You can use this to chat with PDF files stored on your Google Drive.
+This is Gradio Chatbot that operates on Google Colab for free. You can utilize it to chat with PDF files saved in your Google Drive.
 
 **Tech Stack**
 Zephyr 7B Alpha (Finetuned Mistral 7B Instruct)
